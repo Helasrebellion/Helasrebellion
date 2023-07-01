@@ -37,3 +37,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helasrebellion&layout=compact&theme=vision-friendly-dark" />
   </a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Helasrebellion&style=flat-square&color=blue" alt=""/>
+</div>
