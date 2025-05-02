@@ -1,6 +1,7 @@
 ![Header](github-header-image%20(1).png)
-
+<div align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
+</div>
 <p align="center">
   
   Hello, my name is Sylvia. I am a full stack developer currently freelance for web and application development. I have an associate's degree in Applied Science Computer Information and Technology Programming Focused. I am currently pursuing a Bachelors of Science Software Engineering C# Focused. 
@@ -40,3 +41,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Helasrebellion&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+<img src="https://static.wixstatic.com/media/1b9e12_bb9ec8b3cc3f4602b7baed6450c76fd0~mv2.png" title="frontendbadge" alt="frontendbadge" width="150" height="150"/>&nbsp;
+</div>
+
